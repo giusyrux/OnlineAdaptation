@@ -1,0 +1,8 @@
+prefix=/home/giusyr/catkin_ws/install
+
+Name: hri_face_detect
+Description: Description of hri_face_detect
+Version: 1.4.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: sensor_msgs std_msgs tf tf_conversions hri_msgs

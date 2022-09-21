@@ -1,0 +1,2 @@
+cv_camera:hri_face_detect:hri_msgs:hri_rviz:human_description:libhri:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/giusyr/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/giusyr/catkin_ws/install -G Unix Makefiles

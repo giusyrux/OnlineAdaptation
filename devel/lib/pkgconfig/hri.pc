@@ -1,0 +1,8 @@
+prefix=/home/giusyr/catkin_ws/devel
+
+Name: hri
+Description: Description of hri
+Version: 0.5.1
+Cflags: -I/home/giusyr/catkin_ws/src/libhri/include
+Libs: -L${prefix}/lib -lhri
+Requires: geometry_msgs hri_msgs rosconsole roscpp std_msgs tf2 cv_bridge

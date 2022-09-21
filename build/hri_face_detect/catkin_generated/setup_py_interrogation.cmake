@@ -1,0 +1,7 @@
+set(hri_face_detect_SETUP_PY_SETUP_MODULE "distutils.core")
+set(hri_face_detect_SETUP_PY_VERSION "1.4.3")
+set(hri_face_detect_SETUP_PY_SCRIPTS "")
+set(hri_face_detect_SETUP_PY_PACKAGES "hri_face_detect")
+set(hri_face_detect_SETUP_PY_PACKAGE_DIRS "src/hri_face_detect")
+set(hri_face_detect_SETUP_PY_MODULES "")
+set(hri_face_detect_SETUP_PY_MODULE_DIRS "")
